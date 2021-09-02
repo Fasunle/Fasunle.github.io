@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,CAAC,CAAA;EACG,KAAK,ECHO,IAAI;CDInB;;AAGD,AAAA,OAAO,CAAA;EACH,WAAW,EAAE,QAAQ;CACxB;;AACD,AAAA,IAAI,CAAA;EACA,UAAU,EAAE,OAAO,CAAC,6BAA6B;CAIpD;;AALD,AAII,IAJA,CAIA,eAAe,CAAA;EAAC,OAAO,EAAE,MAAM;CAAG",
+    "sources": [
+        "../SCSS/main.scss",
+        "../SCSS/_constants.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
