@@ -1,0 +1,16 @@
+* {
+  color: #444;
+}
+
+.nunito {
+  font-family: "Nunito";
+}
+
+body {
+  background: #f4f4f4 url(../images/background.png);
+}
+
+body .container-more {
+  padding: 0 10em;
+}
+/*# sourceMappingURL=main.css.map */
