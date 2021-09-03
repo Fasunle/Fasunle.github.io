@@ -28,7 +28,7 @@ twitter_username: epitomekennie
 github_username:  Fasunle
 
 # Build settings
-theme: forty_jekyll_theme
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
